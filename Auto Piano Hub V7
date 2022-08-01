@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://cdn.discordapp.com/attachments/922823751127683082/998475506494214204/Protected.lua'))()
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/922823751127683082/1003679217336193105/Protected.lua"))()
